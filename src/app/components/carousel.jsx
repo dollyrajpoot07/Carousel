@@ -3,9 +3,9 @@ import { useState, useEffect } from 'react';
 import styles from './carousel.module.css';
 
 const images = [
-    '/public/images/img1.png',
-    'public/images/img1.png',
-    'public/images/img1.png',
+  '/images/img1.png',
+  '/images/img2.png',
+  '/images/img3.png',
 ];
 
 const Carousel = () => {
